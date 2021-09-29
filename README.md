@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 My published Npm packages
-- [Simple Merge Reducers](https://www.npmjs.com/package/simple-merge-reducers/access)
+- [Simple Merge Reducers](https://www.npmjs.com/package/simple-merge-reducers)
