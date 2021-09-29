@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## New Npm Package
+[Simple Merge Reducers](https://www.npmjs.com/package/simple-merge-reducers/access)
