@@ -21,60 +21,65 @@
 
 ---
 
-## Skills
+### Experience
 
-- **JavaScript/TypeScript:** My native programming languages, used extensively in frontend (React and Redux), backend (Node.js and Express), and for testing automation (Jest).
-- **Swift:** I'm in the process of mastering Swift for iOS development.
-- **Technical Writing:** I enjoy simplifying complex topics and making them accessible to others.
+**React Native Software Engineer (Soldo)**
 
----
+**Soldo, Rome, Italy – (Mar 2022- Present)**
 
-## Projects
+- Leading the development of the mobile UI kit and components library for the application, I collaborate closely with the design team to bring their visions to life while streamlining the developers' experience.
+- Coach junior developers, conducting frequent pair and mob programming sessions, while working with senior engineers to define roadmaps and feature priorities.
 
-### Simple Merge Reducers (Typescript, Redux)
-- An influential npm package for streamlining reducer management in complex applications.
-- Empowers developers to create maintainable codebases and enhance code organization and efficiency.
+**Frontend Software Engineer (Soldo)**
 
- ### 🚀 My published Npm packages
-- [Simple Merge Reducers](https://www.npmjs.com/package/simple-merge-reducers)
+**Soldo, Rome, Italy – (Mar 2021 - Mar 2022)**
 
+- Develop and maintain React front-end architecture for web apps, guaranteeing scalability, maintainability, and an intuitive UI.
+- Leverage React, Redux, and TypeScript to introduce features and functionalities, ensuring a seamless user experience.
+- Optimised and refactored code, resulting in improved performance and codebase maintainability.
 
-### Code-Pilot Npm Package (Node, ChatGPT)
-- A Node.js npm package designed to facilitate code navigation and comprehension.
-- Empowers developers to quickly grasp the structure and functionality of code, improving productivity and code understanding.
+**Backend Software Engineer (NTT Data)**
 
----
+**NTT Data, Rome, Italy – (Mar 2020 - Aug 2020)**
 
-## Experience
-
-### React Native Software Engineer at Soldo
-- Led the development of the application's mobile UI kit and components library.
-- Collaborated closely with the design team to elevate user experience.
-
-### Jr. Frontend Software Engineer at Soldo
-- Developed and maintained robust React front-end architecture for web apps.
-- Introduced innovative features and functionalities, ensuring a delightful user experience.
-
-### Jr. Software Engineer at NTT Data
-- Contributed to backend development using Spring Boot.
-- Engaged in cross-functional collaboration to gain insights into software development.
+- Contributed to the development and testing of backend functionalities using Spring Boot, while implementing unit and integration testing.
 
 ---
 
-## Education
+### Projects
 
-**Bachelor's Degree in Engineering of Computing Systems**
-- Politecnico di Milano, Milan, Italy
-- Noteworthy coursework: Software Engineering, Artificial Intelligence, AWS Fundamentals.
-- Enriched soft skills through participation in ELIS Digital University.
+**[EtnaUI](https://github.com/matteomad1011/etna-ui?tab=readme-ov-file) - Open source React Components Library**
+
+**Soldo Mobile UI Kit (Wrote about it on [Medium](https://medium.com/@m.cavallo1011/a-journey-in-monorepo-architecture-for-a-react-native-ui-kit-part-1-inception-a7298171f689))**
+
+**Simple Merge Reducers ([NPM](https://www.npmjs.com/package/simple-merge-reducers))**
+
+**Code-Pilot ([NPM](https://www.npmjs.com/package/simple-merge-reducers))**
 
 ---
 
-## Languages
+### **Honors** & Awards
 
-- **Italian:** Native
-- **English:** Proficient (Cambridge English Level 1 Certificate in ESOL International)
-- **French:** Primary Level (in progress)
+**Vento Builder Program (2023 Bootcamp)**
+
+Participated in the Vento Builder program, a 5-day full-time experience of team working focused on building a startup and presenting it to a commission.
+
+**Soldo Legacy Builder 2023 (Soldo)**
+
+> *“Recognises an individual, group or team, who have chased the most complex problems. Questing constantly. They never give up. They dare. They test. They learn. They create. They share what they've learned.”*
+> 
+
+---
+
+### Tech Stack
+
+**Javascript/Typescript**
+
+As my *primary* languages, I've accumulated 3+ years of experience, applying them across various domains—from frontend React and Redux to backend API development with Node and Express, to mobile with React Native. Additionally, I've extensively used them for side projects.
+
+**Writing & Content Sharing**
+
+Passionate about simplifying technical concepts, I frequently contribute articles on Medium and share content on LinkedIn. My goal is to make complex ideas accessible and practical for a diverse audience.
 
 ---
 
