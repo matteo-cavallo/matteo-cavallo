@@ -1,5 +1,7 @@
 # Matteo Cavallo
 
+![Matteo Cavallo](./images/hero.jpg)
+
 ## About
 
 _Crafting interfaces_. Building mobile and web experiences since 2017. I've been always passionate about technology and I am always seeking out ways to improve my skills and knowledge in this constantly evolving industry. Frontend Engineer at [Soldo](https://www.soldo.com/en-gb/).
