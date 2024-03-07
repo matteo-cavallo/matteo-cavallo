@@ -1,6 +1,6 @@
 # Matteo Cavallo
 
-![Clouds](./images/clouds-1.jpg)
+![Clouds](./images/clouds-1.JPG)
 
 ## About
 
