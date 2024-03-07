@@ -1,6 +1,6 @@
 # Matteo Cavallo
 
-![Matteo Cavallo](./images/hero.jpg)
+![Clouds](./images/clouds-1.jpg)
 
 ## About
 
@@ -56,6 +56,8 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
   _“Recognises an individual, group or team, who have chased the most complex problems. Questing constantly. They never give up. They dare. They test. They learn. They create. They share what they've learned.”_
 
 ## My Journey
+
+![Matteo Cavallo](./images/hero.jpg)
 
 ### 2017
 
@@ -116,3 +118,5 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 - Delivering Happiness - _Tony Hsieh_
 - The Lean Startup - _Eric Ries_
 - The personal MBA - _Josh Kaufman_
+
+![Clouds](./images/clouds-2.jpg)
