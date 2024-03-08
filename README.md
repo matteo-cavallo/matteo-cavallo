@@ -119,6 +119,11 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 - Delivering Happiness - _Tony Hsieh_
 - The Lean Startup - _Eric Ries_
 - The personal MBA - _Josh Kaufman_
+- Sprint - *Jake Knapp*
+- Atomic Habits - *James Clear*
+- Sapiens - *Yuval Noah Harari*
+- This is marketing - *Seth Godin*
+- Zero to One - *Peter Thiel*
 - ...
 
 ![Clouds](./images/clouds-2.jpg)
