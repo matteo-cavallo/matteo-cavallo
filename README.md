@@ -61,57 +61,57 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 
 ### 2017
 
-- 🎥 Developer and video maker at [Editions SRL](https://www.editions.it/)
-- 🎵 Crafted videos for emerging music talents
-- 💻 Web Developer at [KDS](https://www.konsol.it)
+- Developer and video maker at [Editions SRL](https://www.editions.it/)
+- Crafted videos for emerging music talents
+- Web Developer at [KDS](https://www.konsol.it)
 
 ### 2018
 
-- 🛠️ ENAC Certified - Drone Building and Repairing
-- 📱 Published Yeezy on Google Play Store, featured on [_Outpump_](https://www.instagram.com/outpump/)
-- 🌍 Achieved English Cambridge B2 Certification
-- 🎮 Launched _Do100!_ on Google Play Store
+- ENAC Certified - Drone Building and Repairing
+- Published Yeezy on Google Play Store, featured on [_Outpump_](https://www.instagram.com/outpump/)
+- Achieved English Cambridge B2 Certification
+- Launched _Do100!_ on Google Play Store
 
 ### 2019
 
-- 🏆 Winner of _Bologna Festival Il Cinema Ritrovato_
-- ✈️ Explored self-driving drone projects in Bordeaux and Istanbul with Erasmus+
-- 📚 Embarked on a BSc in Computer Science at [Politecnico di Milano](https://www.polimi.it/)
-- 🖥️ Cisco CCENT RSE Certified
-- 🚲 Navigated London's streets as an Uber Eats rider
+- Winner of _Bologna Festival Il Cinema Ritrovato_
+- Explored self-driving drone projects in Bordeaux and Istanbul with Erasmus+
+- Embarked on a BSc in Computer Science at [Politecnico di Milano](https://www.polimi.it/)
+- Cisco CCENT RSE Certified
+- Navigated London's streets as an Uber Eats rider
 
 ### 2020
 
-- ☁️ Amazon AWS Foundation Course
-- ☕ Java OCA Course
-- 💼 Internship at NTTData
-- 🌐 Developed [Avvento ELIS](https://github.com/matteo-cavallo/avvento-elis): a video content-sharing web app
+- Amazon AWS Foundation Course
+- Java OCA Course
+- Internship at NTTData
+- Developed [Avvento ELIS](https://github.com/matteo-cavallo/avvento-elis): a video content-sharing web app
 
 ### 2021
 
-- 🌐 Completed a Web Development Course
-- 👨‍💻 Became a Part-Time Frontend Software Engineer at Soldo
-- 🐳 Introduced to Docker Course
-- 📱 Dived into Flutter Mobile Development
-- 👨‍💻 Continued as a Frontend Software Engineer at Soldo
+- Completed a Web Development Course
+- Became a Part-Time Frontend Software Engineer at Soldo
+- Introduced to Docker Course
+- Dived into Flutter Mobile Development
+- Continued as a Frontend Software Engineer at Soldo
 
 ### 2022
 
-- 📱 Promoted to Mobile Software Engineer at Soldo
-- 🎓 Graduated with a BSc in Computer Science 🎉
-- 🗼 Visited Paris for the first time!
+- Promoted to Mobile Software Engineer at Soldo
+- Graduated with a BSc in Computer Science 🎉
+- Visited Paris for the first time!
 
 ### 2023
 
-- 🏃‍♂️ Conquered the _London Tough Mudder_ 15K marathon
-- 🚀 Participated in _Italy Tech Week_
-- 🚀 Joined the _Vento Builder Program_ Bootcamp
-- 🛠️ Led the development of the Soldo Mobile UI Kit
-- 🏆 Awarded the _Soldo Legacy Builder_
+- Conquered the _London Tough Mudder_ 15K marathon
+- Participated in _Italy Tech Week_
+- Joined the _Vento Builder Program_ Bootcamp
+- Led the development of the Soldo Mobile UI Kit
+- Awarded the _Soldo Legacy Builder_
 
 ### 2024
 
-- 🇬🇧 Moved to London
+- Moved to London
 - ...
 
 ## Books
