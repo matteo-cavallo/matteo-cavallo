@@ -12,7 +12,7 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 
 ## Work Experience
 
-- Frontend Engineer at Soldo
+- Frontend Software Engineer at Soldo
 
   _Rome, IT & London, UK (March 2021 - Present)_
 
@@ -21,7 +21,7 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 
 - Backend Software Engineer at NTTData
 
-  _Rome, IT & London, UK (March 2020 - August 2020)_
+  _Rome, IT (March 2020 - August 2020)_
 
   - Implemented and executed comprehensive unit and integration testing
     methodologies for backend functionalities using Spring Boot framework,
@@ -112,11 +112,13 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 ### 2024
 
 - 🇬🇧 Moved to London
+- ...
 
 ## Books
 
 - Delivering Happiness - _Tony Hsieh_
 - The Lean Startup - _Eric Ries_
 - The personal MBA - _Josh Kaufman_
+- ...
 
 ![Clouds](./images/clouds-2.jpg)
