@@ -48,6 +48,14 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 
   _September 2019 – July 2022_
 
+## Featured
+- [Podcast - "Accademia dei Pugni"](https://open.spotify.com/show/2kzDycMHhUhgs8WMVsmLsX?si=54c5d590725a4e21)
+
+  As engineering students, my team and I launched "L'Accademia dei Pugni," a weekly podcast offering a fresh perspective on university life, career pursuits, and beyond. Our discussions provided listeners with insights into academia and work from a youthful standpoint, encouraging them to take a break from their studies and immerse themselves in our engaging content.
+
+
+
+
 ## Awards & Honors
 
 - Soldo Legacy Builder
@@ -94,6 +102,7 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 - Introduced to Docker Course
 - Dived into Flutter Mobile Development
 - Continued as a Frontend Software Engineer at Soldo
+- Launched a Podcast called [Accademia dei Pugni](https://open.spotify.com/show/2kzDycMHhUhgs8WMVsmLsX?si=54c5d590725a4e21)
 
 ### 2022
 
