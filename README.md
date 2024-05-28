@@ -120,8 +120,8 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 
 ### 2024
 
-- Moved to London
-- ...
+- Lived in London for 3 months
+- Published Etna UI (Design System & React Components Library)
 
 ## Books
 
