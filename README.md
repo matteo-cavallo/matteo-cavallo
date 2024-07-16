@@ -53,9 +53,6 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 
   As engineering students, my team and I launched "L'Accademia dei Pugni," a weekly podcast offering a fresh perspective on university life, career pursuits, and beyond. Our discussions provided listeners with insights into academia and work from a youthful standpoint, encouraging them to take a break from their studies and immerse themselves in our engaging content.
 
-
-
-
 ## Awards & Honors
 
 - Soldo Legacy Builder
@@ -67,33 +64,25 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 
 ![Matteo Cavallo](./images/hero.jpg)
 
-### 2017
+### 2024
 
-- Developer and video maker at [Editions SRL](https://www.editions.it/)
-- Crafted videos for emerging music talents
-- Web Developer at [KDS](https://www.konsol.it)
+- Moved to London, UK
+- Published Etna UI (Design System & React Components Library)
+- 🥖 ???
 
-### 2018
+### 2023
 
-- ENAC Certified - Drone Building and Repairing
-- Published Yeezy on Google Play Store, featured on [_Outpump_](https://www.instagram.com/outpump/)
-- Achieved English Cambridge B2 Certification
-- Launched _Do100!_ on Google Play Store
+- Conquered the _London Tough Mudder_ 15K marathon
+- Participated in _Italy Tech Week_
+- Joined the _Vento Builder Program_ Bootcamp
+- Led the development of the Soldo Mobile UI Kit
+- Awarded the _Soldo Legacy Builder_
 
-### 2019
+### 2022
 
-- Winner of _Bologna Festival Il Cinema Ritrovato_
-- Explored self-driving drone projects in Bordeaux and Istanbul with Erasmus+
-- Embarked on a BSc in Computer Science at [Politecnico di Milano](https://www.polimi.it/)
-- Cisco CCENT RSE Certified
-- Navigated London's streets as an Uber Eats rider
-
-### 2020
-
-- Amazon AWS Foundation Course
-- Java OCA Course
-- Internship at NTTData
-- Developed [Avvento ELIS](https://github.com/matteo-cavallo/avvento-elis): a video content-sharing web app
+- Promoted to Mobile Software Engineer at Soldo
+- Graduated with a BSc in Computer Science 🎉
+- Visited Paris for the first time!
 
 ### 2021
 
@@ -104,24 +93,33 @@ Indulging in mellow, serene jazz tunes: tracks that establish their rhythm withi
 - Continued as a Frontend Software Engineer at Soldo
 - Launched a Podcast called [Accademia dei Pugni](https://open.spotify.com/show/2kzDycMHhUhgs8WMVsmLsX?si=54c5d590725a4e21)
 
-### 2022
+### 2020
 
-- Promoted to Mobile Software Engineer at Soldo
-- Graduated with a BSc in Computer Science 🎉
-- Visited Paris for the first time!
+- Amazon AWS Foundation Course
+- Java OCA Course
+- Internship at NTTData
+- Developed [Avvento ELIS](https://github.com/matteo-cavallo/avvento-elis): a video content-sharing web app
 
-### 2023
+### 2019
 
-- Conquered the _London Tough Mudder_ 15K marathon
-- Participated in _Italy Tech Week_
-- Joined the _Vento Builder Program_ Bootcamp
-- Led the development of the Soldo Mobile UI Kit
-- Awarded the _Soldo Legacy Builder_
+- Winner of _Bologna Festival Il Cinema Ritrovato_
+- Explored self-driving drone projects in Bordeaux and Istanbul with Erasmus+
+- Embarked on a BSc in Computer Science at [Politecnico di Milano](https://www.polimi.it/)
+- Cisco CCENT RSE Certified
+- Navigated London's streets as an Uber Eats rider
 
-### 2024
+### 2018
 
-- Lived in London for 3 months
-- Published Etna UI (Design System & React Components Library)
+- ENAC Certified - Drone Building and Repairing
+- Published Yeezy on Google Play Store, featured on [_Outpump_](https://www.instagram.com/outpump/)
+- Achieved English Cambridge B2 Certification
+- Launched _Do100!_ on Google Play Store
+
+### 2017
+
+- Developer and video maker at [Editions SRL](https://www.editions.it/)
+- Crafted videos for emerging music talents
+- Web Developer at [KDS](https://www.konsol.it)
 
 ## Books
 
